@@ -1,4 +1,4 @@
-# Network Check Script
+# Ping / DNS Check Script
 
 This Bash script performs a network check on a list of IP addresses. For each IP address, it verifies its reachability using `ping` and performs a DNS lookup using `nslookup`. The results are saved in a CSV file.
 
